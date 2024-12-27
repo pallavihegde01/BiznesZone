@@ -8,7 +8,7 @@ const NavItem2 = () => {
         </h2>
         <div className="flex flex-wrap justify-center">
             <div className="p-8 w-full lg:w-1/2">
-             <img src="../src/assets/solution.png" alt="image" />
+             <img src="../src/assets/solution1.png" alt="image" />
             </div>
             <div className="pt-12 w-full lg:w-1/2">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure ut eveniet dignissimos, quam quaerat placeat possimus ab. Voluptate, repellendus eum placeat provident saepe ducimus. Totam, consequuntur. At ad voluptatem ullam!</p>
